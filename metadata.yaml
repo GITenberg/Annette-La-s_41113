@@ -1,0 +1,35 @@
+_repo: Annette-La-s_41113
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41113-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Féval, Paul
+    aliases:
+    - Feval, Paul
+    - Féval, Paul Henri Corentin
+    birthdate: 1817
+    deathdate: 1887
+    gutenberg_agent_id: '3280'
+    url: http://www.gutenberg.org/2009/agents/3280
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul_Féval_père
+    - http://en.wikipedia.org/wiki/Paul_Féval,_père
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41113'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Nobility -- France -- Fiction'
+- !lcsh 'Actresses -- Fiction'
+- !lcc 'PQ'
+title: Annette Laïs
+url: http://www.gutenberg.org/ebooks/41113
