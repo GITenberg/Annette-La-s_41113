@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Féval_père
     - http://en.wikipedia.org/wiki/Paul_Féval,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41113#Annette-La-s
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2012-10-19'
 gutenberg_type: Text
